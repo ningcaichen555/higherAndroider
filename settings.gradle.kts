@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "highAndroider"
 include(":app")
- 
+include(":apt")
+include(":apt:annotations")
+include(":apt:annotation_compile")
